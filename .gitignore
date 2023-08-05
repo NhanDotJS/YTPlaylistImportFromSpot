@@ -1,0 +1,7 @@
+.env
+node_modules
+.env-bak
+static
+main.js
+index.js
+tracks.txt
